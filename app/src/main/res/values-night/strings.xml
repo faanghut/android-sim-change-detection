@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="login">Login</string>
+    <string name="store_sim_state">Store SIM State</string>
 </resources>
