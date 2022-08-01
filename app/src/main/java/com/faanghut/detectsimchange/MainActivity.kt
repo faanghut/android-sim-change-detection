@@ -2,7 +2,6 @@ package com.faanghut.detectsimchange
 
 import android.Manifest
 import android.content.pm.PackageManager
-import android.content.res.ColorStateList
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.telephony.SubscriptionManager
